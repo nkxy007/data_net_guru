@@ -1,2 +1,2 @@
 ## STATUS and Next Steps  ####
-
+1. Uploading the diagram to the blog
